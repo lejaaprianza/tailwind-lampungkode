@@ -1,4 +1,6 @@
 # tailwind-lampungkode
 tutorial tailwind ada di blog Lampungkode.id
-Cara jangan lupa ketik :
-# npm start
+#
+jangan lupa ketik du 
+# npm install
+di project kalian
